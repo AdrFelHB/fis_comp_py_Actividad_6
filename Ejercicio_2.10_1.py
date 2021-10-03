@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-    Propósito: calcular la energía de ligadura
-    Ejercicio 2.10 del libro de Mark newman, Computational Physics
-    Autor: Adrián Hernández
-    Fecha: 3 de octubre de 2021
+    Propósito:  calcular la energía de ligaduray energía de ligadura
+                por nucleón dados A y Z.
+    Ejercicio 2.10 del libro de Mark newman, Computational Physics.
+    Autor: Adrián Hernández.
+    Fecha: 3 de octubre de 2021.
 """
 
 from numpy import *
