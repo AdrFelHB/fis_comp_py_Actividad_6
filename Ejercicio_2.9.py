@@ -35,7 +35,7 @@ for i in range(-L,L+1):
                 
                 M += ((-1)**(i+j+k))/sqrt((i**2) + (j**2) + (k**2))
 
-print(f'Para L = {L:1.0e}  ->  M = {M:1.3f}')
+print(f'Para L = {L:1.2e}  ->  M = {M:1.3f}')
 
 fin = time()
 
